@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/spotifystudy/static/css/main.4d5638ff.chunk.css",
-    "main.js": "/spotifystudy/static/js/main.16fa17ba.chunk.js",
-    "main.js.map": "/spotifystudy/static/js/main.16fa17ba.chunk.js.map",
+    "main.css": "/spotifystudy/static/css/main.1254cdff.chunk.css",
+    "main.js": "/spotifystudy/static/js/main.32f26025.chunk.js",
+    "main.js.map": "/spotifystudy/static/js/main.32f26025.chunk.js.map",
     "runtime-main.js": "/spotifystudy/static/js/runtime-main.0344cab6.js",
     "runtime-main.js.map": "/spotifystudy/static/js/runtime-main.0344cab6.js.map",
     "static/js/2.813b3377.chunk.js": "/spotifystudy/static/js/2.813b3377.chunk.js",
     "static/js/2.813b3377.chunk.js.map": "/spotifystudy/static/js/2.813b3377.chunk.js.map",
     "index.html": "/spotifystudy/index.html",
-    "static/css/main.4d5638ff.chunk.css.map": "/spotifystudy/static/css/main.4d5638ff.chunk.css.map",
+    "static/css/main.1254cdff.chunk.css.map": "/spotifystudy/static/css/main.1254cdff.chunk.css.map",
     "static/js/2.813b3377.chunk.js.LICENSE.txt": "/spotifystudy/static/js/2.813b3377.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/spotifystudy/static/media/CircularXXWebTrial-RegularTrial.2d5de220.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.0344cab6.js",
     "static/js/2.813b3377.chunk.js",
-    "static/css/main.4d5638ff.chunk.css",
-    "static/js/main.16fa17ba.chunk.js"
+    "static/css/main.1254cdff.chunk.css",
+    "static/js/main.32f26025.chunk.js"
   ]
 }
